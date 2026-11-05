@@ -1,0 +1,15 @@
+{
+  "name": "codyssey-final-check",
+  "version": "0.1.0",
+  "description": "Self-check a Codyssey AI Native final project against the official rubric",
+  "author": {
+    "name": "myungjinki"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codyssey Final Check",
+    "shortDescription": "Self-check a Codyssey final project",
+    "developerName": "myungjinki",
+    "category": "Developer Tools"
+  }
+}

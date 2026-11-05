@@ -1,0 +1,15 @@
+{
+  "name": "plugins",
+  "description": "Public plugins for Claude Code and Codex",
+  "owner": {
+    "name": "myungjinki"
+  },
+  "plugins": [
+    {
+      "name": "codyssey-final-check",
+      "description": "Self-check a Codyssey AI Native final project against the official rubric",
+      "source": "./plugins/codyssey-final-check",
+      "category": "development"
+    }
+  ]
+}
