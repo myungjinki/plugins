@@ -24,6 +24,16 @@ codex plugin marketplace add myungjinki/plugins
 codex plugin add codyssey-final-check@plugins
 ```
 
+## 제거
+
+```bash
+claude plugin uninstall codyssey-final-check@plugins
+```
+
+```bash
+claude plugin marketplace remove plugins
+```
+
 ## 사용법
 
 Claude `/codyssey-final-check:evaluate`, Codex `$evaluate`로 부른다.
