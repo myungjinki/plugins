@@ -10,7 +10,7 @@ git done
 
 | 구분 | 할 일 |
 |---|---|
-| codyssey-final-check | 서비스 검증 난이도 만들기: 배포 서비스 접속, 기능별 3회 시도, 표에 없는 입력 1건, 잘못된 입력 2건 |
+| codyssey-final-check | 서비스 검증 기능 만들기: 배포 서비스 접속, 기능별 3회 시도, 표에 없는 입력 1건, 잘못된 입력 2건 |
 | codyssey-final-check | G1의 README 필수 5개 항목 목록을 받아 스킬에 넣기 |
 
 
